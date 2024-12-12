@@ -28,21 +28,3 @@
 - **Data Privacy:** Ensure user data safety and confidentiality.
 
 
-# ASAP project 2
-
-Frontend Setup Tech Stack: React
-
-Backend Setup Tech Stack: Express, Nodemon, CORS, Mongoose.
-
- I’ve built the frontend using React and added a backend powered by Express, Nodemon, CORS, and Mongoose for managing the server and database.
-
-
-## Frontend Setup
-- I’ve used cd frontend to navigate into the frontend directory.
-- I’ve used npm install to install all the necessary dependencies for the frontend, like React.
-- I’ve used npm start to launch the React development server and open the application in my browser.
-
-## Backend Setup
-- I’ve used cd backend to navigate into the backend directory.
-- I’ve used npm install to install backend dependencies like    Express, Nodemon, CORS, and Mongoose.
-- I’ve used npm run dev to start the backend server in development mode with automatic restarts using Nodemon.
