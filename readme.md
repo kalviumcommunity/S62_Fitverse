@@ -28,7 +28,7 @@
 - **Data Privacy:** Ensure user data safety and confidentiality.
 
 
-# ASAP project 2
+# ASAP project 
 
 Frontend Setup Tech Stack: React
 
@@ -46,3 +46,6 @@ Backend Setup Tech Stack: Express, Nodemon, CORS, Mongoose.
 - I’ve used cd backend to navigate into the backend directory.
 - I’ve used npm install to install backend dependencies like    Express, Nodemon, CORS, and Mongoose.
 - I’ve used npm run dev to start the backend server in development mode with automatic restarts using Nodemon.
+
+## Render Deployment
+link- https://s62-fitverse-1.onrender.com
