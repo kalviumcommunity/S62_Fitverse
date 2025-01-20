@@ -49,3 +49,7 @@ Backend Setup Tech Stack: Express, Nodemon, CORS, Mongoose.
 
 ## Render Deployment
 link- https://s62-fitverse-1.onrender.com
+
+
+## Cloudflare Deployment Link
+https://s62-fitverse.pages.dev/
