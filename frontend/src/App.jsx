@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 import './App.css';
 import FitnessPage from './Pages/FitnessPage'; 
 
@@ -29,7 +29,7 @@ function App() {
             }
           />
           
-          <Route path="/fitness" element={<FitnessPage />} />
+          <Route path="/user" element={<FitnessPage />} />
         </Routes>
       </div>
     </Router>
